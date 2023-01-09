@@ -3,14 +3,33 @@
 This repository is an assignment from The Odin Project to create a landing page!
 The layout for the page is found in the images folder as well as fonts, colors and styling.
 
+## Table of contents
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Our process](#our-process)
+  - [Built with](#built-with)
+  - [What We learned](#what-we-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+## Overview
 
+### The challenge
 The goal is to get everything as close as possible to the reference images. Thanks for contributing and stopping by!
+
+### Screenshot
+
+![](./screenshot.jpg)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
+## Our process
 
 ### Built with
 
@@ -23,7 +42,7 @@ The goal is to get everything as close as possible to the reference images. Than
 - [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
-### What I learned
+### What we learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
@@ -60,11 +79,11 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
-## Author
+## Author(s)
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [Add your name here](https://www.your-linkedin profile.com)
+- GitHub - [@yourusername](https://www.github.com/yourusername)
+- Website - [@yourusername](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
