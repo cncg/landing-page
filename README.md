@@ -26,11 +26,12 @@ The goal is to get everything as close as possible to the solution images. Creat
 
 ### Links
 
-- Reference URL: 
+- Reference URL: <br>
 Click [here](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) to view the desired layout.
-
+<br>
 Click [here](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png) to view the desired styles.
-
+<br>
+<br>
 
 - Live Site URL:
 [https://cncg.github.io/landing-page/]
