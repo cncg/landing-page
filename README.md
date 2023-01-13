@@ -18,7 +18,7 @@ The layout for the page is found in the images folder as well as fonts, colors a
 ## Overview
 
 ### The challenge
-The goal is to get everything as close as possible to the reference images. Thanks for contributing and stopping by!
+The goal is to get everything as close as possible to the solution images. Create a header, four sections of the body and finally a header. The project as well as styling ideas was provided by The Odin Project. 
 
 ### Screenshot
 
@@ -26,21 +26,17 @@ The goal is to get everything as close as possible to the reference images. Than
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Desired Result + Styling URL: [https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png],[https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png]
+- Live Site URL: [https://cncg.github.io/landing-page/]
 
 ## Our process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Semantic HTML5 Markup
+- CSS
+- FlexBox
+- Mobile-First Workflow
 
 ### What we learned
 
