@@ -48,6 +48,9 @@ li {
   font-weight: bold;
 }
 
+/** the above code is related to the -- navbar */
+
+/** the code below is the first section directly below the navbar -- section one*/
 .container-1 {
   height: 400px;
   background: #1f2937;
@@ -73,7 +76,8 @@ li {
   flex-shrink: 0;
   justify-content: center;
   align-items: center;
-  width: 430px;
+  width: 550px;
+  height: 250px;
 
   background: rgb(107, 114, 142);
   color: white;
