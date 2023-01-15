@@ -109,3 +109,13 @@ li {
   width: 119px;
   padding: 8px 20px;
 }
+
+/* * the code below is all for the second section of the page -- section two */
+
+.square {
+  border: solid 4px royalblue;
+  border-radius: 10px;
+  padding: 22px 22px;
+  width: 102px;
+  height: 102px;
+}
