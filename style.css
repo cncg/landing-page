@@ -9,13 +9,15 @@ body {
 }
 
 .nav {
-  padding: 20px;
-  height: 30px;
-  background-color: #1f2937;
-  color: white;
-
   display: flex;
   align-items: center;
+
+  font-size: 13px;
+  padding: 20px;
+  height: 30px;
+
+  background-color: #1f2937;
+  color: white;
 }
 
 .logo {
@@ -160,3 +162,5 @@ li {
   gap: 10px;
   color: grey;
 }
+
+/* * the code below is for the third section of the page -- section three */
