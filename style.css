@@ -171,7 +171,35 @@ li {
 
 /* * the code below is for the third section of the page -- section three */
 
-.container-3 {
-  background: #e5e7eb;
+/* * the code below is for the third section of the page -- section three */
+
+.wrapper-2 {
   height: 400px;
+  display: flex;
+}
+
+.container-3 {
+  height: 400px;
+  background: #e5e7eb;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote {
+  font-size: 36px;
+  font-weight: lighter;
+  color: #1f2937;
+
+  padding: 30px 340px 0px 340px;
+}
+
+.author {
+  font-weight: bold;
+  font-size: 20px;
+
+  margin-top: 0%;
+  padding: 0px 100px 30px 550px;
 }
