@@ -20,6 +20,7 @@ body {
 
 .logo {
   margin-right: auto;
+  margin-left: 190px;
 }
 
 .right-links {
@@ -27,6 +28,7 @@ body {
   align-items: center;
 
   margin: 10px;
+  margin-right: 190px;
   gap: 15px;
 }
 
