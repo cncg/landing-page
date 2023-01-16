@@ -49,7 +49,8 @@ Starting with good file structure, and analyzing the desired end result. Look at
 
 - Linkedin - [Chelsea](www.linkedin.com/in/chelsea-calvo)
 - GitHub - [@cncg](https://github.com/cncg)
-  <br>
+  <br/>
+  <br/>
 
 - Linkedin - [Christine Belzie](https://www.linkedin.com/in/christinebelzie/)
 - GitHub - [@CBID2](https://github.com/CBID2)
