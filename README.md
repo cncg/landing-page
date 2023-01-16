@@ -19,7 +19,7 @@ The layout for the page is found in the images folder as well as fonts, colors a
 
 ### The challenge
 
-The goal is to get everything as close as possible to the solution images. Create a header, four sections of the body and finally a header. The project as well as styling ideas was provided by The Odin Project.
+The goal is to get everything as close as possible to the solution images. Create a header, four sections of the body and finally a footer. The project as well as styling ideas was provided by The Odin Project.
 
 ### Screenshot
 
