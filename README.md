@@ -23,7 +23,7 @@ The goal is to get everything as close as possible to the provided image below. 
 
 ### Screenshot
 
-![desired result](./reference/layout-refernce.jpg)
+![desired result](./reference/layout-reference.jpg)
 ![styling reference](./reference/styling-reference.jpg)
 
 ### Links
