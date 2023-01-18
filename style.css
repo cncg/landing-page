@@ -13,6 +13,10 @@ body {
   background: #1c4c93;
 }
 
+a:hover {
+  color: lightslategrey;
+}
+
 /** the below code is related to the -- navbar */
 nav {
   font-size: 13px;
@@ -27,7 +31,7 @@ nav {
 
 .logo {
   margin-right: auto;
-  margin-left: 190px;
+  margin-left: 195px;
 }
 
 .right-links {
@@ -159,6 +163,7 @@ li {
 
   margin-bottom: 100px;
   gap: 30px;
+  width: 80%;
 }
 
 .info {
@@ -189,6 +194,8 @@ li {
 }
 
 .quote {
+  width: 60%;
+
   font-size: 31px;
   font-weight: lighter;
   color: #1f2937;
@@ -218,21 +225,23 @@ li {
 
 .container-4 {
   display: flex;
+  justify-content: center;
+  align-items: center;
 
   color: white;
   background: #3382f6;
-  border-radius: 20px;
-  border: solid 4px salmon;
+  border-radius: 11px;
 
-  width: 70%;
-  padding: 35px;
+  width: 65%;
+  padding: 25px;
   margin: 40px;
+  gap: 25px;
 }
 
 .action-text {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  /* align-items: flex-start; */
 }
 
 strong {
@@ -250,8 +259,9 @@ strong {
   border: solid white 1px;
   border-radius: 5px;
 
+  height: 19px;
   width: 119px;
-  padding: 10px 4px;
+  padding: 6px 1px;
 }
 
 /** the below code is for the footer, obviously */
